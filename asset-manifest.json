@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactbench/static/css/main.734a81e2.chunk.css",
-    "main.js": "/reactbench/static/js/main.c2b34f10.chunk.js",
-    "main.js.map": "/reactbench/static/js/main.c2b34f10.chunk.js.map",
+    "main.js": "/reactbench/static/js/main.db7e7e7e.chunk.js",
+    "main.js.map": "/reactbench/static/js/main.db7e7e7e.chunk.js.map",
     "runtime-main.js": "/reactbench/static/js/runtime-main.52762c9d.js",
     "runtime-main.js.map": "/reactbench/static/js/runtime-main.52762c9d.js.map",
     "static/js/2.c1bc4f74.chunk.js": "/reactbench/static/js/2.c1bc4f74.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.52762c9d.js",
     "static/js/2.c1bc4f74.chunk.js",
     "static/css/main.734a81e2.chunk.css",
-    "static/js/main.c2b34f10.chunk.js"
+    "static/js/main.db7e7e7e.chunk.js"
   ]
 }
